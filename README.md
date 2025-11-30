@@ -23,3 +23,5 @@ React
 HTML & SCSS
 
 API Integration
+
+LocalStorage 
